@@ -39,7 +39,7 @@ public class ExercicioFila {
 
 //- Adicione um novo nome: Daniel. Verifique a posição que o mesmo assumiu na fila
         umaFila.add("Daniel");
-        System.out.println(umaFila.); //Confirma posição de Daniel no fim da FILA
+        System.out.println(umaFila); //Confirma posição de Daniel no fim da FILA
 
 //- Retorne o tamanho da fila
         System.out.println(umaFila.size());
@@ -52,6 +52,6 @@ public class ExercicioFila {
         System.out.printf("Carlos está na fila? Resposta %s", temCarlos);
 
 
-        
+
     }
 }
